@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myCoke360",
+      "sha256_cert_fingerprints": [
+        "F8:56:1C:6B:57:60:DF:3D:9A:7E:FA:14:B3:84:35:1D:E3:EA:C7:E9:57:1C:3E:F8:85:DE:3E:2C:BA:56:FB:48"
+      ]
+    }
+  }
+]
