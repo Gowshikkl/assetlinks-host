@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.myCoke360",
+      "package_name": "com.mycoke360.android.cona.perf",
       "sha256_cert_fingerprints": [
         "F9:72:21:6E:F8:42:33:F6:87:8A:AF:B1:1D:3C:29:E1:D8:E9:F8:E7:2F:3A:A0:98:54:1A:A0:4F:9F:13:0F:01"
       ]
