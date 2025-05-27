@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2978HHRNS6.com.myCoke360.cona.ios.l",
+        "paths": [ "/myCoke/*", "/" ]
+      }
+    ]
+  }
+}
