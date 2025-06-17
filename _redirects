@@ -1,5 +1,5 @@
 # Allow access to Android Asset Links or Apple App Site Association
-/.well-known/*    /.well-known/:splat    200
+/testing/*    /testing/:splat    200
 
 # Redirect all other routes to index.html for SPA behavior (React, Vue, etc.)
 /*                /index.html            200
