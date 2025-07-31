@@ -4,7 +4,15 @@
     "details": [
       {
         "appID": "2978HHRNS6.com.mycoke360.ios.cona.perf",
-        "paths": [ "/*" ]
+        "paths": [
+          "/myCokePerf/*"
+        ]
+      },
+      {
+        "appID": "2978HHRNS6.com.mycoke360.ios.cona",
+        "paths": [
+          "/myCokeProd/*"
+        ]
       }
     ]
   }
