@@ -1,4 +1,5 @@
-/testing/assetlinks.json
+/.well-known/assetlinks.json
   Content-Type: application/json
-/testing/apple-app-site-association
+/.well-known/apple-app-site-association
   Content-Type: application/json
+  Cache-Control: public, max-age=0
