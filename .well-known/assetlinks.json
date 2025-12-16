@@ -19,7 +19,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.myCoke360.cona.android",
+      "package_name": "com.mycoke360.android.cona",
       "sha256_cert_fingerprints": [
         "F8:56:1C:6B:57:60:DF:3D:9A:7E:FA:14:B3:84:35:1D:E3:EA:C7:E9:57:1C:3E:F8:85:DE:3E:2C:BA:56:FB:48",
         "A4:AB:F6:75:58:21:4D:CC:F7:1B:AE:45:92:97:28:E9:88:B9:E6:7E:04:F1:00:21:DB:2F:42:9A:43:2D:8D:A2",
