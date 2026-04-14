@@ -2,10 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appID": "2978HHRNS6.com.myCoke360.ios.cona",
-        "paths": [ "/*" ]
-      }, {
+       {
         "appID": "2978HHRNS6.com.mycoke360.ios.cona.perf",
         "paths": [
           "/*"
