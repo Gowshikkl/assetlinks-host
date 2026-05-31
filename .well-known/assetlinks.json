@@ -5,26 +5,8 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.mycoke360.android.cona.l",
-      "sha256_cert_fingerprints": [
-        "F8:56:1C:6B:57:60:DF:3D:9A:7E:FA:14:B3:84:35:1D:E3:EA:C7:E9:57:1C:3E:F8:85:DE:3E:2C:BA:56:FB:48",
-        "D2:0E:3C:56:F2:9D:65:0F:CF:63:C9:AF:22:0D:AD:E9:23:21:25:4C:80:78:0E:57:F9:BE:3E:8C:92:73:49:50",
-        "79:12:89:59:54:68:BB:AE:A3:9C:9D:53:54:3B:40:CE:10:73:EA:8C:4C:82:7D:E2:F2:DF:C9:90:94:98:24:9B"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.mycoke360.android.cona",
-      "sha256_cert_fingerprints": [
-        "F8:56:1C:6B:57:60:DF:3D:9A:7E:FA:14:B3:84:35:1D:E3:EA:C7:E9:57:1C:3E:F8:85:DE:3E:2C:BA:56:FB:48",
-        "A4:AB:F6:75:58:21:4D:CC:F7:1B:AE:45:92:97:28:E9:88:B9:E6:7E:04:F1:00:21:DB:2F:42:9A:43:2D:8D:A2",
-        "96:84:38:1B:56:77:85:D6:F6:3B:3B:47:65:53:4B:AE:A5:96:26:F7:28:AA:08:49:2F:47:F3:E5:4B:EC:F8:84"
-      ]
+      "package_name": "com.lascialo_essere",
+      "sha256_cert_fingerprints": ["F9:72:21:6E:F8:42:33:F6:87:8A:AF:B1:1D:3C:29:E1:D8:E9:F8:E7:2F:3A:A0:98:54:1A:A0:4F:9F:13:0F:01"]
     }
   }
 ]
